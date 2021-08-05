@@ -47,7 +47,7 @@
 
 
 # 실행 예시
-![example.png](./example.png)
+![example.png](https://github.com/JH-lee95/KoBERT-Sentiments-Classification/blob/master/example.PNG?raw=true)
 
 # References
 

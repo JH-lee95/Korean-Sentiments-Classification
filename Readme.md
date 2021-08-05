@@ -44,7 +44,7 @@
 
 
 # 실행 예시
-![캡처.PNG](./example.png)
+![example.png](./example.png)
 
 # References
 

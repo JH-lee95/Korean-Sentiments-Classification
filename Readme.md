@@ -30,6 +30,9 @@
 (https://aihub.or.kr/opendata/keti-data/recognition-laguage/KETI-02-010)
 
 
+3. 한국어 감정 정보가 포함된 단발성 대화 데이터셋  
+(https://aihub.or.kr/opendata/keti-data/recognition-laguage/KETI-02-009)
+
 ## Preprocess Datasets
 
 위의 두 데이터셋을 준비하였으면, 전처리 작업을 진행합니다.  
@@ -51,6 +54,8 @@
 - [감성대화 말뭉치](https://aihub.or.kr/aidata/7978)
 
 - [한국어 감정 정보가 포함된 연속적 대화 데이터셋](https://aihub.or.kr/opendata/keti-data/recognition-laguage/KETI-02-010)
+
+- [한국어 감정 정보가 포함된 단발성 대화 데이터셋](https://aihub.or.kr/opendata/keti-data/recognition-laguage/KETI-02-009)
 
 - [SKTBrain KoBERT](https://github.com/SKTBrain/KoBERT)
 

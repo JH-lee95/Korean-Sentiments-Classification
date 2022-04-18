@@ -46,9 +46,6 @@
 [run_KoBERT_classifier.ipynb](./run_KoBERT_classifier.ipynb)의 스크립트를 실행시키면, 학습부터 Inference까지 모든 동작이 가능합니다. 이때 학습에 사용되는 데이터는 위의 과정을 거치면 생성된 [sentiment_dialogues.csv]입니다.
 
 
-# 실행 예시
-![example.png](https://github.com/JH-lee95/KoBERT-Sentiments-Classification/blob/master/example.PNG?raw=true)
-
 # References
 
 - [감성대화 말뭉치](https://aihub.or.kr/aidata/7978)

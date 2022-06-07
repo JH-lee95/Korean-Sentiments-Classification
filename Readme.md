@@ -1,5 +1,5 @@
 # Introduction
-- SKT KoBERT를 이용한 감성분류 모델 (DistilKoBERT 추가, 210811)
+-  한국어 BERT 모델을 이용한 감성분류 모델 (DistilKoBERT 추가, 210811)
 - 대화데이터셋을 이용한, 대화체에서의 감성분류
 - 7가지 감정에 대한 Multi-category 분류
 
@@ -59,3 +59,5 @@
 - [koo's tech diary](https://tech-diary.tistory.com/31)
 
 - [DistillKoBERT](https://github.com/monologg/DistilKoBERT)
+
+- [SNNLP](http://knlp.snu.ac.kr/)
